@@ -1,3 +1,4 @@
+#NiceCoin Sigma
 import telebot
 from telebot import types
 import pandas as pd  # Import the pandas library
