@@ -9,5 +9,5 @@
 6.Постноянные обновления
 Вот список бустеров(бустеры активируются сами за клики
 ![image](https://github.com/Aizekil/NiceCoin-/assets/151900236/f83d96e3-9ab4-49fd-90b8-11e114cb0e4e)
-У бота сейчас такой тег @Pizza129_bot, в скором времени бот переедет 
-![image](https://github.com/Aizekil/NiceCoin-/assets/151900236/86b83304-43f2-42a2-847f-b7b8cec01ebb)
+У бота сейчас такой тег @Pizza129_bot, в скором времени бот переедет  ![image](https://github.com/Aizekil/NiceCoin-/assets/151900236/86b83304-43f2-42a2-847f-b7b8cec01ebb)
+
